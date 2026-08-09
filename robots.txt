@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: minimalnoe-popolnenie.github.io
+Sitemap: https://minimalnoe-popolnenie.github.io/sitemap.xml
